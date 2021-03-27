@@ -16,7 +16,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [Twitch](http://twitch.tv/MAJIDNISAR) 📺 
 - [LinkedIn](http://linkedin.com/in/MAJIDNSIAR) 👩‍💻
 - [YouTube](http://youtube.com/c/MAJIDNISAR) 📽 
-- [MishManners®™ website](http://MAJIDNISAR.com) 🌐 
+- [MAJIDNISAR®™ website](http://MAJIDNISAR.com) 🌐 
 
 
 ### Watch, read, and catch up on content:
