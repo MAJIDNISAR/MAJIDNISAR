@@ -44,4 +44,4 @@ If you haven't had a chance to check out [GitHub Skyline yet](https://skyline.gi
 
 #### ASCII file of my 2020 contributions
 
-![](https://github.com/MishManners/MAJIDNISAR/blob/master/Skyline.PNG)
+![](https://github.com/MishManners/MAJIDNISAR/blob/master/SKYLINE.JPG)
