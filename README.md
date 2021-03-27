@@ -5,10 +5,6 @@
 
 <!-- <img src=""> this is another way you can add in images. -->
 
-![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/master/All%20-%20Hackathon%20QueenV2.jpg?raw=true)
-
-Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event or speaking on stage! 
-
 ### Find me all around the web:
 <a href="https://majidnisar.com" target="_blank"><img align="left" alt="majidnisar.com" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://linkedin.com/in/MAJIDNISAR" target="_blank"><img align="left" alt="Majid Nisar | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
@@ -18,6 +14,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <a href="https://twitter.com/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://medium.com/@MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 <a href="https://dev.to/MAJIDNISAR" target="_blank"><img align="left" alt="dev to MAJIDNISAR" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+
 
 - [Twitter](http://twitter.com/MAJIDNISAR) :bird:
 - [Instagram](http://instagram.com/MAJIDNISAR) 📸
