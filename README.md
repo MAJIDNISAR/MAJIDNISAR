@@ -32,7 +32,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 ### Some Fun Facts about me:
 
 
-<img src="https://github.com/MAJIDNISAR/MAJIDNSIAR/blob/master/myoctocat.gif" width="200" height="200">
+<img src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/myoctocat.gif?raw=true" width="200" height="200">
 
 #### 3D rendering of my GitHub Contributions
 
