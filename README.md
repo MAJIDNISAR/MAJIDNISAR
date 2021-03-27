@@ -14,7 +14,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <a href="https://linkedin.com/in/MAJIDNISAR" target="_blank"><img align="left" alt="Majid Nisar | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://behance.net/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
 <a href="https://dribbble.com/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
-<a href="https://instagram.com/MAJID.NISAR" target="_blank"><img align="left" alt="MAJIDNISAR  | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://instagram.com/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR  | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://medium.com/@MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 <a href="https://dev.to/MAJIDNISAR" target="_blank"><img align="left" alt="dev to MAJIDNISAR" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
