@@ -12,7 +12,6 @@
 <a href="http://youtube.com/c/MAJIDNISAR" target="_blank"><img align="left" alt="YouTube MAJIDNISAR" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/yt_icon_mono_dark.png" /></a>
 
 ### Watch, read, and catch up on content:
-
 - [GitHub blog articles](https://github.blog/author/MAJIDNISAR/) :book:
 - [Esports and gaming articles](https://www.dailyesports.gg/author/MAJIDNISAR/) :notebook:
 - [Dev.to blog posts](https://dev.to/MAJIDNISAR) ✍️
