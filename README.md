@@ -38,8 +38,16 @@
 
 
 <img src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/myoctocat.gif?raw=true" width="200" height="200">
+#### 3D rendering of my 2021 GitHub Contributions
 
-#### 3D rendering of my GitHub Contributions
+![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2021-majidnisar-ezgif.com-gif-maker.gif?raw=true)
+
+#### ASCII file of my 2021 contributions
+
+![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2021-skyline.png)
+
+
+#### 3D rendering of my 2020 GitHub Contributions
 
 ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2020-majidnisar-ezgif.com-gif-maker.gif?raw=true)
 
