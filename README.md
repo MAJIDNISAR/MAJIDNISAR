@@ -14,6 +14,7 @@
 <a href="https://twitter.com/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://medium.com/@MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 <a href="https://dev.to/MAJIDNISAR" target="_blank"><img align="left" alt="dev to MAJIDNISAR" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+  
 
 ### Find me all around the web:
 - [Twitter](http://twitter.com/MAJIDNISAR) :bird:
