@@ -21,7 +21,8 @@
 - [Buy merchandise](https://merch.streamelements.com/MAJIDNISAR/) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/people/MAJIDNISAR/shop) 🛍️-->
 
-### Some Fun Facts about me:    <img src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/myoctocat.gif?raw=true" width="200" height="200">
+### Some Fun Facts about me:
+<img src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/myoctocat.gif?raw=true" width="200" height="200">
 | Year      | 3D rendering of my 2021 GitHub Contributions | ASCII file of my 2021 contributions     |
 | :---        |    :----:   |          ---: |
 | 2021      | ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2021-majidnisar-ezgif.com-gif-maker.gif?raw=true)       | ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2021-skyline.png)   |
