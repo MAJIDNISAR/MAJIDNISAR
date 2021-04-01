@@ -11,6 +11,7 @@
 <a href="https://dev.to/MAJIDNISAR" target="_blank"><img align="left" alt="dev to MAJIDNISAR" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/dev-badge.svg" /></a>
 <a href="http://youtube.com/c/MAJIDNISAR" target="_blank"><img align="left" alt="YouTube MAJIDNISAR" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/yt_icon_mono_dark.png" /></a>
 
+<!--
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/MAJIDNISAR/) :book:
 - [Esports and gaming articles](https://www.dailyesports.gg/author/MAJIDNISAR/) :notebook:
@@ -18,7 +19,7 @@
 - [Past Twitch streams](https://www.twitch.tv/MAJIDNISAR/videos?filter=highlights&sort=time) :bookmark:
 - [Talks and presentations](https://MAJIDNISAR.tech/recorded-presentations/) :books:
 - [Buy merchandise](https://merch.streamelements.com/MAJIDNISAR/) 🛒
-- [Buy even more merchandise](https://www.redbubble.com/people/MAJIDNISAR/shop) 🛍️
+- [Buy even more merchandise](https://www.redbubble.com/people/MAJIDNISAR/shop) 🛍️-->
 
 ### Some Fun Facts about me:    <img src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/myoctocat.gif?raw=true" width="200" height="200">
 | Year      | 3D rendering of my 2021 GitHub Contributions | ASCII file of my 2021 contributions     |
