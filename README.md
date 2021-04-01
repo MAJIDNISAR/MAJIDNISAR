@@ -34,15 +34,14 @@
 - [Buy merchandise](https://merch.streamelements.com/MAJIDNISAR/) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/people/MAJIDNISAR/shop) 🛍️
 
-### Some Fun Facts about me:
+### Some Fun Facts about me:    <img src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/myoctocat.gif?raw=true" width="200" height="200">
 | Year      | 3d | ASCII     |
 | :---        |    :----:   |          ---: |
 | 2021      | ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2021-majidnisar-ezgif.com-gif-maker.gif?raw=true)       | ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2021-skyline.png)   |
-| 2020      | ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2020-majidnisar-ezgif.com-gif-maker.gif?raw=true)       | ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/SKYLINE.png?raw=true)
- |
+| 2020      | ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2020-majidnisar-ezgif.com-gif-maker.gif?raw=true)       | ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/SKYLINE.png?raw=true)      |
 
 
-<img src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/myoctocat.gif?raw=true" width="200" height="200">
+
 #### 3D rendering of my 2021 GitHub Contributions
 
 ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2021-majidnisar-ezgif.com-gif-maker.gif?raw=true)
