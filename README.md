@@ -41,7 +41,7 @@
 
 #### 3D rendering of my GitHub Contributions
 
-![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/master/ezgif-4-5370f601a9b3.gif)
+![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2020-majidnisar-ezgif.com-gif-maker.gif?raw=true)
 
 #### ASCII file of my 2020 contributions
 
