@@ -1,10 +1,5 @@
 ### Hey everyone, I'm MAJID NISAR®™, AKA  RAJ®™ 👋
 
-<!--
-**MAJIDNISAR/MAJIDNISAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- <img src=""> this is another way you can add in images. -->
-
 ### Find me all around the web: 
 <a href="https://majidnisar.com" target="_blank"><img align="left" alt="majidnisar.com" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/www.svg" /></a>
 <a href="https://linkedin.com/in/MAJIDNISAR" target="_blank"><img align="left" alt="Majid Nisar | LinkedIn" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/linkedin.svg" />
@@ -15,7 +10,7 @@
 <a href="https://medium.com/@MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Medium" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/medium.svg" />
 <a href="https://dev.to/MAJIDNISAR" target="_blank"><img align="left" alt="dev to MAJIDNISAR" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/dev-badge.svg" /></a>
   
-
+###
 - [Twitter](http://twitter.com/MAJIDNISAR) :bird:
 - [Instagram](http://instagram.com/MAJIDNISAR) 📸
 - [Twitch](http://twitch.tv/MAJIDNISAR) 📺 
