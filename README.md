@@ -2,20 +2,16 @@
 
 ### Find me all around the web: 
 <a href="https://majidnisar.com" target="_blank"><img align="left" alt="majidnisar.com" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/www.svg" /></a>
-<a href="https://linkedin.com/in/MAJIDNISAR" target="_blank"><img align="left" alt="Majid Nisar | LinkedIn" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/linkedin.svg" />
+<a href="https://linkedin.com/in/MAJIDNISAR" target="_blank"><img align="left" alt="Majid Nisar | LinkedIn" width="22px"  src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/linkedin.svg" />
 <a href="https://behance.net/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Behance" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/behance.svg" />
 <a href="https://dribbble.com/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Dribbble" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/dribbble.svg" />
 <a href="https://instagram.com/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR  | Instagram" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/insta.svg" />
 <a href="https://twitter.com/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Twitter" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/twitter.svg" />
 <a href="https://medium.com/@MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Medium" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/medium.svg" />
 <a href="https://dev.to/MAJIDNISAR" target="_blank"><img align="left" alt="dev to MAJIDNISAR" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/dev-badge.svg" /></a>
-  
+<a href="http://youtube.com/c/MAJIDNISAR" target="_blank"><img align="left" alt="YouTube MAJIDNISAR" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/yt_icon_mono_dark.png" /></a>
 ###
 
-- [Twitter](http://twitter.com/MAJIDNISAR) :bird:
-- [Instagram](http://instagram.com/MAJIDNISAR) 📸
-- [Twitch](http://twitch.tv/MAJIDNISAR) 📺 
-- [LinkedIn](http://linkedin.com/in/MAJIDNSIAR) 👩‍💻
 - [YouTube](http://youtube.com/c/MAJIDNISAR) 📽 
 - [MAJIDNISAR®™ website](http://MAJIDNISAR.com) 🌐 
 
