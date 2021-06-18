@@ -1,5 +1,5 @@
 ### Hey everyone, I'm MAJID NISAR®™, AKA  RAJ®™ 👋
-Listening to: [![Spotify](https://novatorem-5akbl5b1h-majidnisar.vercel.app/api/spotify)](https://open.spotify.com/user/majidnisar)
+Listening to: [![Spotify](https://novatorem-5akbl5b1h-majidnisar.vercel.app/api/spotify)](https://open.spotify.com/user/majid nisar)
 ### Find me all around the web: 
 <a href="https://majidnisar.com" target="_blank"><img align="left" alt="majidnisar.com" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/www.svg" /></a>
 <a href="https://linkedin.com/in/MAJIDNISAR" target="_blank"><img align="left" alt="Majid Nisar | LinkedIn" width="22px"  src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/linkedin.svg" />
@@ -16,7 +16,7 @@ Listening to: [![Spotify](https://novatorem-5akbl5b1h-majidnisar.vercel.app/api/
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem-5akbl5b1h-majidnisar.vercel.app/api/spotify)](https://open.spotify.com/user/majidnisar)
+&nbsp; <br> [![Spotify](https://novatorem-5akbl5b1h-majidnisar.vercel.app/api/spotify)](https://open.spotify.com/user/MAJID NISAR)
 
   </td>
   <td width="50%">
