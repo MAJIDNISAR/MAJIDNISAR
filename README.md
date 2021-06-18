@@ -16,7 +16,7 @@ Listening to: [![Spotify](https://majidnisar.vercel.app/api/spotify)](https://op
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://majidnisar.vercel.app/api/spotify)](https://open.spotify.com/user/majidnisar)
+&nbsp; <br> [![Spotify](https://novatorem-5akbl5b1h-majidnisar.vercel.app/api/spotify)](https://open.spotify.com/user/majidnisar)
 
   </td>
   <td width="50%">
