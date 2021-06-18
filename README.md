@@ -11,7 +11,7 @@ Listening to: [![Spotify](https://majidnisar.vercel.app/api/spotify)](https://op
 <a href="https://dev.to/MAJIDNISAR" target="_blank"><img align="left" alt="dev to MAJIDNISAR" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/dev-badge.svg" /></a>
 <a href="http://youtube.com/c/MAJIDNISAR" target="_blank"><img align="left" alt="YouTube MAJIDNISAR" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/yt_icon_mono_dark.png" /></a>
  &nbsp; <br>
-<table width="100%"> 
+<!-- <table width="100%"> 
   <tr>
   <td width="50%">
       
@@ -26,7 +26,7 @@ Listening to: [![Spotify](https://majidnisar.vercel.app/api/spotify)](https://op
   [![Visits](https://komarev.com/ghpvc/?username=majidnisar&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/majidnisar)
 </p>
   </td>
-  </table>
+  </table> -->
   
 <!--
 ### Watch, read, and catch up on content:
