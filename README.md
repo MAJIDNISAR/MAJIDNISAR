@@ -1,6 +1,7 @@
 ### Hey everyone, I'm MAJID NISAR®™, AKA  RAJ®™ 👋
 <!-- Listening to: [![Spotify](https://majidnisar.vercel.app/api/spotify)](https://open.spotify.com/user/majidnisar) -->
-[<img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/majidnisar
+Listening To:
+<img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" /> (https://open.spotify.com/user/majidnisar
 [<img src="https://readme-spotify-status.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](LINK_TO_YOUR_ACCOUNT)
 
 ### Find me all around the web: 
