@@ -10,6 +10,8 @@ Listening to: [![Spotify](https://majidnisar.vercel.app/api/spotify)](https://op
 <a href="https://medium.com/@MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Medium" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/medium.svg" />
 <a href="https://dev.to/MAJIDNISAR" target="_blank"><img align="left" alt="dev to MAJIDNISAR" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/dev-badge.svg" /></a>
 <a href="http://youtube.com/c/MAJIDNISAR" target="_blank"><img align="left" alt="YouTube MAJIDNISAR" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/yt_icon_mono_dark.png" /></a>
+  
+ &nbsp; <br>
 <table width="100%"> 
   <tr>
   <td width="50%">
