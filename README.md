@@ -138,19 +138,6 @@ Technology is only part of the story.
 
 ---
 
-# GitHub Roadmap
-
-- [ ] Add animated SVG hero banner
-- [ ] Add typing animation
-- [ ] Add GitHub activity graph
-- [ ] Add contribution snake
-- [ ] Auto-sync newsletter
-- [ ] Showcase featured repositories
-- [ ] Add publications
-- [ ] Add speaking engagements
-
----
-
 <div align="center">
 
 ## Software evolves.
