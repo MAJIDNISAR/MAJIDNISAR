@@ -1,51 +1,164 @@
-### Hey everyone, I'm MAJID NISAR®™, AKA  RAJ®™ 👋
-<!-- Listening to: [![Spotify](https://majidnisar.vercel.app/api/spotify)](https://open.spotify.com/user/majidnisar) -->
-<!-- Listening To:
-<img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" /> (https://open.spotify.com/user/majidnisar
-[<img src="https://readme-spotify-status.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](LINK_TO_YOUR_ACCOUNT)
- -->
-### Find me all around the web: 
-<a href="https://majidnisar.com" target="_blank"><img align="left" alt="majidnisar.com" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/www.svg" /></a>
-<a href="https://linkedin.com/in/MAJIDNISAR" target="_blank"><img align="left" alt="Majid Nisar | LinkedIn" width="22px"  src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/linkedin.svg" />
-<a href="https://behance.net/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Behance" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/behance.svg" />
-<a href="https://dribbble.com/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Dribbble" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/dribbble.svg" />
-<a href="https://instagram.com/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR  | Instagram" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/insta.svg" />
-<a href="https://twitter.com/MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Twitter" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/twitter.svg" />
-<a href="https://medium.com/@MAJIDNISAR" target="_blank"><img align="left" alt="MAJIDNISAR | Medium" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/medium.svg" />
-<a href="https://dev.to/MAJIDNISAR" target="_blank"><img align="left" alt="dev to MAJIDNISAR" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/dev-badge.svg" /></a>
-<a href="http://youtube.com/c/MAJIDNISAR" target="_blank"><img align="left" alt="YouTube MAJIDNISAR" width="22px" src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/yt_icon_mono_dark.png" /></a>
- &nbsp; <br>
-<!-- <table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://majidnisar.vercel.app/api/spotify)](https://open.spotify.com/user/MAJIDNISAR)
+<div align="center">
 
-  </td>
-  <td width="50%">
+# MAJID NISAR
 
-<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/majidnisar)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/rBAtKYbA)
-  [![Visits](https://komarev.com/ghpvc/?username=majidnisar&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/majidnisar)
-</p>
-  </td>
-  </table> -->
-  
-<!--
-### Watch, read, and catch up on content:
-- [GitHub blog articles](https://github.blog/author/MAJIDNISAR/) :book:
-- [Esports and gaming articles](https://www.dailyesports.gg/author/MAJIDNISAR/) :notebook:
-- [Dev.to blog posts](https://dev.to/MAJIDNISAR) ✍️
-- [Past Twitch streams](https://www.twitch.tv/MAJIDNISAR/videos?filter=highlights&sort=time) :bookmark:
-- [Talks and presentations](https://MAJIDNISAR.tech/recorded-presentations/) :books:
-- [Buy merchandise](https://merch.streamelements.com/MAJIDNISAR/) 🛒
-- [Buy even more merchandise](https://www.redbubble.com/people/MAJIDNISAR/shop) 🛍️-->
+### Building Systems That Scale Human Intelligence.
 
-### Some Fun Facts about me: <img src="https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/myoctocat.gif?raw=true" width="200" height="200">
-| Year      | 3D rendering of my 2021 GitHub Contributions | ASCII file of my 2021 contributions     |
-| :---        |    :----:   |          ---: |
-| 2021      | ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2021-majidnisar-ezgif.com-gif-maker.gif?raw=true)       | ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2021-skyline.png)   |
-| 2020      | ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/Assets/2020-majidnisar-ezgif.com-gif-maker.gif?raw=true)       | ![](https://github.com/MAJIDNISAR/MAJIDNISAR/blob/main/SKYLINE.png?raw=true)      |
+**Software Engineering Manager • AI Researcher • Systems Thinker • Writer**
 
+> *Ideas become systems. Systems become software. Software amplifies people.*
 
+🌐 **Website:** https://majidnisar.com
+
+</div>
+
+---
+
+# The Code Layer
+
+My website explores **people**.
+
+My newsletter explores **systems**.
+
+This GitHub profile explores **code**.
+
+Every repository here is an experiment, a reference architecture, a research project, or a production-ready implementation focused on one question:
+
+> **How can software and artificial intelligence amplify human intelligence?**
+
+---
+
+# Current Focus
+
+- 🤖 Enterprise AI
+- 🧠 Multi-Agent Systems
+- 🔍 LLM Evaluation
+- 📚 AI Research
+- ⚙️ AI Infrastructure
+- 🌳 Chinar Project
+- ✍️ Writing *The System Layer*
+
+---
+
+# Building Blocks
+
+## Languages
+
+`Python` `Go` `C++` `TypeScript` `SQL`
+
+## AI & ML
+
+`OpenAI` `Claude` `Gemini` `Llama` `Mistral` `DeepSeek`
+
+## Frameworks
+
+`LangChain` `LangGraph` `LlamaIndex` `CrewAI` `AutoGen` `DSPy`
+
+## Infrastructure
+
+`Docker` `Kubernetes` `Azure` `AWS` `Linux` `Terraform`
+
+## Data
+
+`PostgreSQL` `MongoDB` `Redis` `Qdrant` `Pinecone`
+
+---
+
+# Systems
+
+Here you'll find repositories focused on:
+
+- Enterprise AI Platforms
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Knowledge Graphs
+- LLM Evaluation
+- AI Infrastructure
+- Developer Tools
+- Open Source
+- Sustainability Technology
+
+---
+
+# Research
+
+Current interests include:
+
+- Foundation Models
+- Reasoning Models
+- Human-AI Collaboration
+- Enterprise AI
+- Explainable AI
+- Evaluation & Guardrails
+- Knowledge Systems
+
+---
+
+# From *The System Layer*
+
+Topics I regularly write about:
+
+- AI Strategy
+- Engineering Leadership
+- Systems Thinking
+- Enterprise Architecture
+- Software Engineering
+- The Future of AI
+
+---
+
+# Beyond Code
+
+Technology is only part of the story.
+
+- 🌳 Founder — Chinar Project
+- 📷 Photography
+- ✍️ Long-form writing
+- 🎤 Public speaking
+- 📚 Lifelong learning
+- ☕ Coffee-powered engineering
+
+---
+
+# Philosophy
+
+> Great software doesn't just solve problems.
+>
+> It changes the way people think, collaborate, and create.
+
+---
+
+# Connect
+
+- 🌐 Website — https://majidnisar.com
+- 💼 LinkedIn
+- 📰 Newsletter — The System Layer
+- 📚 Research
+- 📧 Email
+
+---
+
+# GitHub Roadmap
+
+- [ ] Add animated SVG hero banner
+- [ ] Add typing animation
+- [ ] Add GitHub activity graph
+- [ ] Add contribution snake
+- [ ] Auto-sync newsletter
+- [ ] Showcase featured repositories
+- [ ] Add publications
+- [ ] Add speaking engagements
+
+---
+
+<div align="center">
+
+## Software evolves.
+
+## Systems endure.
+
+## Artificial Intelligence amplifies both.
+
+**— Majid Nisar**
+
+</div>
